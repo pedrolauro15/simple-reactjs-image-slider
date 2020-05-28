@@ -1,4 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## How works?
+
+This project use simple HTML, CSS and JavaScript to build a simple image slider 
+
 
 ## Available Scripts
 
